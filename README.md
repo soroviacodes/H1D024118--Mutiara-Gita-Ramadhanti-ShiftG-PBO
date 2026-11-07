@@ -5,8 +5,8 @@ Identitas
 - NIM   : H1D025118
 - Tema  : Otomotif
 
-Deskripsi singkat
-Program ini mensimulasikan sebuah garasi berisi mobil, motor, dan truk. Setiap kendaraan punya bensin (dalam liter) yang berkurang saat dijalankan dan bisa diisi ulang, dan sebagian bisa diservis. Program dibuat dengan konsep pewarisan (inheritance), abstract class, dan juga interface.
+Deskripsi singkat,
+Program yang merupakan simulasi sebuah garasi berisi mobil, motor, dan truk. Setiap kendaraan punya bensin (dalam liter) yang berkurang saat dijalankan dan bisa diisi ulang, dan sebagian bisa diservis. Program dibuat dengan konsep pewarisan (inheritance), abstract class, dan juga interface.
 
 2. Penjelasan alur program
 - Main membuat 4 objek: mobil1 (bensin penuh), mobil2 (bensin awal 3), motor, dan truk. Dua cara membuat Mobil itu membuktikan konstruktor overload.
